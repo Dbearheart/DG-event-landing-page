@@ -1,8 +1,8 @@
 p{
-    font-size: 20px;
+    font-size: 17px;
 }
 .bg-jumbotron{
     background: url("https://bitwiseindustries.com/wp-content/uploads/2021/09/2020_02_07_Jacque__Ian_138-1024x457.jpg")
     center no-repeat;
-    background-image: cover;
+    background-size: cover;
 }
