@@ -14,6 +14,9 @@ h1{
     center no-repeat;
     background-size: cover;
 }
+.jumbotron{
+    background-color: #ffffff;
+}
 .text-break{
     color: black;
 }
